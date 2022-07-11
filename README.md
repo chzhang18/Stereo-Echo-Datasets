@@ -3,7 +3,7 @@ Stereo-Echo Dataset for Stereo Depth Estimation with Echoes (ECCV 2022)
 ## Overview
 We introduce two Stereo-Echo datasets named **Stereo-Replica** and **Stereo-Matterport3D** from [Replica](https://github.com/facebookresearch/Replica-Dataset) and [Matterport3D](https://niessner.github.io/Matterport/) respectively for multimodal stereo depth estimation benchmarks with echoes. The corresponding echoes are simulated using 3D simulators [Habitat](https://github.com/facebookresearch/habitat-sim) and audio simulator [SoundSpaces](https://github.com/facebookresearch/sound-spaces). The details of our datasets are described in our paper.
 
-![](./images/dataset_overview.png)
+![](/images/dataset_overview.PNG)
 
 ## Download
 **Stereo-Replica** dataset can be obatined from Baidu Cloud links ([Download Extraction Code:jqzm](https://pan.baidu.com/s/100Fx_5CLe1FQLWyx9hPlSA)), which includes stereo images ('Replica_dataset' folder) and echoes ('echoes_navigable' folder). We have used the 128x128 image resolution for our experiment.
